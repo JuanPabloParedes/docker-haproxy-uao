@@ -1,5 +1,4 @@
-# docker-haproxy-uao
-laboratorio-2
+
 # 🐳 Proyecto Docker HAProxy - UAO
 
 **Proyecto realizado por Juan Pablo Paredes**  
